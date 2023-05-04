@@ -10,9 +10,9 @@ Check all my projects here in https://github.com/OttavioM
 
 ### My newest photo
 ***
-
-<center><img src = "https://user-images.githubusercontent.com/54963611/236144461-804e6e48-5e59-4a8d-8b0d-97e990626620.PNG" style = "height:15rem;" ></center>
-
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/54963611/236144461-804e6e48-5e59-4a8d-8b0d-97e990626620.PNG" style = "height:15rem;" >
+</p>
 
 ***
 
