@@ -8,6 +8,14 @@ Check all my projects here in https://github.com/OttavioM
 - 📫 How to reach me: Reach me sending me and email to ottavio.mazzaretto@unican.es
 - 📸 I'm knee on photography, also you can fin me in <a href = "https://www.pexels.com/it-it/@idori-woodmooon-458105245/">PEXELS</a>
 
+### My newest photo
+***
+
+<center><img src = "https://user-images.githubusercontent.com/54963611/236144461-804e6e48-5e59-4a8d-8b0d-97e990626620.PNG" style = "height:15rem;" ></center>
+
+
+***
+
 ### Elsewhere on the internet
 ***
 
