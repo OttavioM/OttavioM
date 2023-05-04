@@ -6,11 +6,13 @@ Check all my projects here in https://github.com/OttavioM
 - 👀 I like programming and analize the data
 - 💞️ I'm looking to collaborate on engineering research projects.
 - 📫 How to reach me: Reach me sending me and email to ottavio.mazzaretto@unican.es
+- 📸 I'm knee on photography, also you can fin me in <a href = "https://www.pexels.com/it-it/@idori-woodmooon-458105245/">PEXELS</a>
 
 ### Elsewhere on the internet
 ***
 
 [![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://it.linkedin.com/in/ottavio-mazzaretto-3696a085)
+[<img src = "https://user-images.githubusercontent.com/54963611/236141784-f45ff1db-d804-4414-868e-7b197f40041a.png" width=4% height=4%> </img>](https://www.instagram.com/ottius/?hl=it)
 
 ### 💻 Contributions
 ***
@@ -18,7 +20,7 @@ Check all my projects here in https://github.com/OttavioM
 
 ![OttavioM's GitHub stats](https://github-readme-stats.vercel.app/api?username=OttavioM&show_icons=true&theme=transparent)
 
-### 🚀 My top languages
+### 🚀 My most used languages
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OttavioM&hide_progress=true)](https://github.com/OttavioM/github-readme-stats)
 
