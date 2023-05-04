@@ -1,4 +1,6 @@
-### 👋 Here Ottavio
+<h2 align="center">
+Hello world! 👋 Here Ottavio
+</h2>
 ***
 
 Check all my projects here in https://github.com/OttavioM
