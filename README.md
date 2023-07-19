@@ -30,6 +30,7 @@ Check all my projects here in https://github.com/OttavioM
 [![GitHub Streak](https://streak-stats.demolab.com?user=OttavioM&theme=tokyonight&border_radius=6)](https://git.io/streak-stats)
 
 ![OttavioM's GitHub stats](https://github.com/anuraghazra/github-readme-stats/api?username=OttavioM&show_icons=true&theme=transparent)
+[![OttavioM's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=OttavioM)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🚀 My most used languages
