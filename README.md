@@ -6,10 +6,10 @@ Hello world! 👋 Here Ottavio
 
 Check all my projects here in https://github.com/OttavioM
 - 🔭 I'am enrolled in PhD at IHCantabria in Coastal Engineering
-- 👀 I like programming and analizing data
+- 👀 I like programming and analysing data
 - 💞️ I'm looking to collaborate on engineering research projects.
-- 📫 How to reach me: Reach me sending me and email to ottavio.mazzaretto@unican.es
-- 📸 I'm knee on photography, also you can fin me in <a href = "https://www.pexels.com/it-it/@idori-woodmooon-458105245/">PEXELS</a>
+- 📫 How to reach me: Reach me by sending me an email to ottavio.mazzaretto@unican.es
+- 📸 I'm knee on photography, also you can find me in <a href = "https://www.pexels.com/it-it/@idori-woodmooon-458105245/">PEXELS</a>
 
 ### My newest photo
 ***
