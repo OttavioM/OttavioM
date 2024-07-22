@@ -5,12 +5,29 @@ Hello world! 👋 Here Ottavio
 ***
 
 Check all my projects here in https://github.com/OttavioM
-- 🔭 I'am enrolled in PhD at IHCantabria in Coastal Engineering
+- 🔭 PhD at IHCantabria in Coastal Engineering
 - 👀 I like programming and analysing data
 - 💞️ I'm looking to collaborate on engineering research projects.
-- 📫 How to reach me: Reach me by sending me an email to ottavio.mazzaretto@unican.es
+- 📫 How to reach me: Reach me by sending an email to ommazzaretto@gmail.com
 - 📸 I'm knee on photography, also you can find me in <a href = "https://www.pexels.com/it-it/@idori-woodmooon-458105245/">PEXELS</a>
 
+
+***
+### My publications
+
+<details>
+<summary>Papers</summary>
+  
+| Year | Cite |
+|-----:|-----------|
+|     2020| Mazzaretto, Ottavio Mattia, et al. "Perspectives for harnessing the energetic persistent high swells reaching the coast of Chile." Renewable Energy 159 (2020): 494-505.    |
+|     2022| Mazzaretto, Ottavio Mattia, Melisa Menéndez, and Héctor Lobeto. "A global evaluation of the JONSWAP spectra suitability on coastal areas." Ocean Engineering 266 (2022): 112756.    |
+|     2024| Mazzaretto, Ottavio Mattia, and Melisa Menendez. "A worldwide coastal analysis of the climate wave systems." Frontiers in Marine Science 11 (2024): 1385285.    |
+|         | https://ihcantabria.github.io/WaveSystemsViewer/ |
+
+</details>
+
+***
 ### My newest photo
 ***
 <p align="center">
@@ -18,7 +35,6 @@ Check all my projects here in https://github.com/OttavioM
 </p>
 
 ***
-
 ### Elsewhere on the internet
 ***
 
@@ -45,6 +61,7 @@ Check all my projects here in https://github.com/OttavioM
 |-----:|-----------|
 |     1| Python    |
 |     2| Matlab    |
+
 
 <!--
 **OttavioM/OttavioM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
