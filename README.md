@@ -5,7 +5,8 @@ Hello world! 👋 Here Ottavio
 ***
 
 Check all my projects here in https://github.com/OttavioM
-- 🔭 PhD at IHCantabria in Coastal Engineering
+- 🔭 PhD at IHCantabria in Coastal Engineering: ✅
+- 🌊 Post-doc at OIST (Okinawa Institute of Science and Technology Graduate School)
 - 👀 I like programming and analysing data
 - 💞️ I'm looking to collaborate on engineering research projects.
 - 📫 How to reach me: Reach me by sending an email to ommazzaretto@gmail.com
